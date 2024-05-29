@@ -1,0 +1,4 @@
+easyocr
+opencv-python
+pyttsx3
+ultralytics
